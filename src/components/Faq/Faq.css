@@ -4,6 +4,7 @@
   padding: 25px;
   border-radius: 16px;
   box-shadow: 0px 6px 20px #35353529;
+  overflow: hidden;
 }
 .accordion-heading {
   gap: 15px;
