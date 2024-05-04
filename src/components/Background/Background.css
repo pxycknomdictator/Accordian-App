@@ -1,0 +1,22 @@
+figure {
+  width: 100%;
+  position: relative;
+}
+
+.backgroundImage {
+  width: 100%;
+  position: absolute;
+}
+.mobile {
+  display: none;
+}
+
+@media (max-width: 620px) {
+  .mobile {
+    display: block;
+    top: -100px;
+  }
+  .desktop {
+    display: none;
+  }
+}
