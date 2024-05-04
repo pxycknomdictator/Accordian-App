@@ -39,6 +39,10 @@ a {
   margin: auto;
 }
 
+.bold{
+  font-weight: 600;
+}
+
 /* color */
 /* :root {} */
 
